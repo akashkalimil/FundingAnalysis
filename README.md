@@ -3,10 +3,15 @@
 Amount Funded by Investors:
 
 Box & Whisker Plot- 
+
 lowest amount :0 
+
 highest amount : ~31500
+
 lower Quartile (Bottom 25%) : 6000
+
 upper Quartile (Top 25%) : 16000
+
 Median: 10000
 
 Funding patterns mostly (50 %) mostly seem to be between 16000 and 6000 dollars
