@@ -50,3 +50,6 @@ Similar to the histogram of the amount funded by investors, the distribution is 
 ### QQplot-
 The data is non-uniform 
 
+
+
+It seems like investors were reluctant to offer large funds. Instead, for the people who requested large amounts, were offered small amounts.
