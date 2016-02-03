@@ -27,3 +27,26 @@ The data does not look normally distributed.
 
 The data is non-uniform.
 
+## Amount Requested
+
+### Box & Whisker Plot- 
+lowest amount :~500
+
+highest amount : ~33500
+
+lower Quartile (Bottom 25%) : 6000
+
+upper Quartile (Top 25%) : 16500
+
+Median: 10000
+
+Skewed towards lower amount. In orhter words, people were not asking for large loans.
+
+### Hisogram- 
+
+Similar to the histogram of the amount funded by investors, the distribution is skewed to the lift and does not look normally distributed.
+
+
+### QQplot-
+The data is non-uniform 
+
